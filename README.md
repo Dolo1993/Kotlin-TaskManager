@@ -24,9 +24,6 @@ For this project, I utilized the following development tools and technologies:
 The primary programming language for this project was Kotlin. No additional external libraries were used, as the standard Kotlin library provided sufficient functionality for this task manager.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
 - [Kotlin Official Documentation]( https://kotlinlang.org/docs/home.html)
 - [Stack Overflow]( https://stackoverflow.com/)
 
